@@ -1,0 +1,1 @@
+# chef-getting-started
