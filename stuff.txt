@@ -13,3 +13,6 @@ knife cookbook list
 knife cookbook site download redis
 
 knife cookbook download cookbook-name
+
+chef generate cookbook cookbooks/docker
+knife cookbook upload docker
