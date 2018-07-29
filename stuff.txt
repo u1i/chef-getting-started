@@ -1,0 +1,15 @@
+https://christinemdraper.wordpress.com/2015/01/31/deploying-a-multi-node-application-to-aws-using-chef-provisioning/comment-page-1/
+
+http://www.devopsschool.com/tutorial/chef/knife-command-line-reference.html
+
+https://docs.chef.io/chef_repo.html
+
+https://downloads.chef.io/chefdk
+
+chef generate repo REPO_NAME
+
+knife cookbook list
+
+knife cookbook site download redis
+
+knife cookbook download cookbook-name

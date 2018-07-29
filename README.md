@@ -54,21 +54,3 @@ After this completes, you should now see the configured node:
 
 `knife node list`
 > 9e5b80312a0e
-
-# 5 - Install stuff on the Node
-
-knife cookbook list
-
-knife cookbook site download redis
-
-knife cookbook download cookbook-name
-
-------
-
-http://www.devopsschool.com/tutorial/chef/knife-command-line-reference.html
-
-https://docs.chef.io/chef_repo.html
-
-https://downloads.chef.io/chefdk
-
-chef generate repo REPO_NAME
