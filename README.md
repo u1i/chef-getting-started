@@ -63,6 +63,7 @@ knife cookbook site download redis
 
 knife cookbook download cookbook-name
 
+------
 
 http://www.devopsschool.com/tutorial/chef/knife-command-line-reference.html
 
@@ -70,4 +71,4 @@ https://docs.chef.io/chef_repo.html
 
 https://downloads.chef.io/chefdk
 
-$ chef generate repo REPO_NAME
+chef generate repo REPO_NAME
